@@ -1,3 +1,6 @@
+AICE : ARTIFICIAL INTELLIGENCE CODE EVALUATOR
+Formely known as OPTICAL CODE RECOGNITION
+
 To Install the project:
 Step 1: Download and install Netbeans IDE 8.0.2
 Step 2: Copy the Tesseract-OCR Folder in C Drive at location C:\.
